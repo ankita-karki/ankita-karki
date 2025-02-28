@@ -33,7 +33,7 @@ Here are some highlights of my work:
 * Geospatial : QGIS, ArcGIS, R (sf, dplyr)
 * Databases : SQL, Relational Database Systems, Spreadsheet Automation
 
-## Methodologies:
+### Methodologies:
 * Statistical Analysis & Quantitative Modeling
 * Machine Learning Fundamentals
 * Geospatial Analysis & Mapping

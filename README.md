@@ -9,11 +9,11 @@ As someone deeply invested in addressing global environmental challenges, I beli
 * Geospatial Analysis : Utilizing QGIS, R (sf, dplyr, leaflet), and GIS techniques to analyze spatial relationships and patterns.
 * Database Management : Creating and managing databases in Excel, SQL, and relational database systems.
 * Machine Learning : Exploring ML models and algorithms to uncover trends and predict outcomes.
+
 Through this transition, I aim to bridge the gap between environmental science and data-driven strategies, contributing to more informed and impactful sustainability initiatives.
 
 ## 🚀Key Projects
 Here are some highlights of my work:
-
 ### Carbon Market Data Integration
 * Engineered SQL queries and Python visualizations to standardize project types across 13 voluntary carbon markets.
 * Developed a classification framework for forestry projects under IFM and REDD+, streamlining activity categorization.

@@ -22,9 +22,6 @@ Here are some highlights of my work:
 * Assessed geospatial proximity to identify potential overlaps between avoided deforestation and efficient cookstove projects.
 ### Project Performance Dashboard
 * Designed a Power BI dashboard to track key performance indicators (KPIs) and metrics for carbon credit projects.
-### Climate Policy Profiles
-* Analyzed decade-long emission trends for 5 G20 countries, contributing to COP29 research.
-* Evaluated the financial viability of 100+ CDM hydropower projects using Internal Rate of Return (IRR) analysis.
 
 ## 🛠️ Technical Skills
 ### Programming & Tools:

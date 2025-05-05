@@ -15,13 +15,11 @@ Through this transition, I aim to bridge the gap between environmental science a
 ## 🚀Key Projects
 Here are some highlights of my work:
 ### Carbon Market Data Integration
-* Engineered SQL queries and Python visualizations to standardize project types across 13 voluntary carbon markets.
-* Developed a classification framework for forestry projects under IFM and REDD+, streamlining activity categorization.
+*  Developed a categorization system standardizing project types across three voluntary carbon markets using SQL databases and Python visualizations.
 ### Geospatial Overlap Analysis
 * Conducted spatial intersection and multi-distance buffer analysis (5–15 km) on over 200 carbon credit projects using R (sf, dplyr, leaflet) and QGIS.
 * Assessed geospatial proximity to identify potential overlaps between avoided deforestation and efficient cookstove projects.
-### Project Performance Dashboard
-* Designed a Power BI dashboard to track key performance indicators (KPIs) and metrics for carbon credit projects.
+
 
 ## 🛠️ Technical Skills
 ### Programming & Tools:
